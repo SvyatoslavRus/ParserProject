@@ -5846,11 +5846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svyat\\Desktop\\Парсер Стабильная версия\\Парсер для файла 2\\TextParser.Test\\TextParser.Test.csproj",
+      "projectUniqueName": "C:\\Users\\svyat\\Desktop\\Xbcnrf\\Parser\\ParserProject\\TextParser.Test\\TextParser.Test.csproj",
       "projectName": "TextParser.Test",
-      "projectPath": "C:\\Users\\svyat\\Desktop\\Парсер Стабильная версия\\Парсер для файла 2\\TextParser.Test\\TextParser.Test.csproj",
+      "projectPath": "C:\\Users\\svyat\\Desktop\\Xbcnrf\\Parser\\ParserProject\\TextParser.Test\\TextParser.Test.csproj",
       "packagesPath": "C:\\Users\\svyat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svyat\\Desktop\\Парсер Стабильная версия\\Парсер для файла 2\\TextParser.Test\\obj\\",
+      "outputPath": "C:\\Users\\svyat\\Desktop\\Xbcnrf\\Parser\\ParserProject\\TextParser.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5871,8 +5871,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\svyat\\Desktop\\Парсер Стабильная версия\\Парсер для файла 2\\TextParser\\TextParser.csproj": {
-              "projectPath": "C:\\Users\\svyat\\Desktop\\Парсер Стабильная версия\\Парсер для файла 2\\TextParser\\TextParser.csproj"
+            "C:\\Users\\svyat\\Desktop\\Xbcnrf\\Parser\\ParserProject\\TextParser\\TextParser.csproj": {
+              "projectPath": "C:\\Users\\svyat\\Desktop\\Xbcnrf\\Parser\\ParserProject\\TextParser\\TextParser.csproj"
             }
           }
         }
