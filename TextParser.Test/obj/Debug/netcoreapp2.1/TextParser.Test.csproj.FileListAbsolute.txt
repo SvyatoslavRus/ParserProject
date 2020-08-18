@@ -1,0 +1,34 @@
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.Test.deps.json
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.Test.runtimeconfig.json
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.Test.runtimeconfig.dev.json
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.Test.dll
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.Test.pdb
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.dll
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.pdb
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.csprojAssemblyReference.cache
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.csproj.CoreCompileInputs.cache
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.AssemblyInfoInputs.cache
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.AssemblyInfo.cs
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.csproj.CopyComplete
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.dll
+C:\Users\svyat\Desktop\Парсер для файла\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.pdb
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.Test.deps.json
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.Test.runtimeconfig.json
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.Test.runtimeconfig.dev.json
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.Test.dll
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.Test.pdb
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.dll
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\bin\Debug\netcoreapp2.1\TextParser.pdb
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.csprojAssemblyReference.cache
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.csproj.CoreCompileInputs.cache
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.AssemblyInfoInputs.cache
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.AssemblyInfo.cs
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.csproj.CopyComplete
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.dll
+C:\Users\svyat\Desktop\Парсер Стабильная версия\Парсер для файла 2\TextParser.Test\obj\Debug\netcoreapp2.1\TextParser.Test.pdb
